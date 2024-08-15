@@ -1,0 +1,17 @@
+{
+    "name": "paraphrasing-tool",
+    "version": "1.0.0",
+    "description": "A paraphrasing tool built using TensorFlow.js and Node.js.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "@tensorflow/tfjs-node": "^4.0.0",
+        "csv-parser": "^3.0.0",
+        "natural": "^8.0.1"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+}
